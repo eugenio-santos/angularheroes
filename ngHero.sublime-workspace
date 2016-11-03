@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"He",
+				"HEROES\tconst"
+			],
+			[
+				"che",
+				"checkFinish"
+			],
+			[
+				"chekc",
+				"checkFinish"
+			],
+			[
+				"isF",
+				"isFinished"
+			],
+			[
+				"show",
+				"showConflicts"
+			],
+			[
+				"fun",
+				"function without name"
+			],
+			[
+				"shw",
+				"showConflicts"
+			],
+			[
+				"with",
+				"with-value"
+			],
+			[
+				"con",
+				"console.log()"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"fl",
+				"floor"
+			],
+			[
+				"at",
+				"attributeCellQuadrant"
+			],
+			[
+				"getE",
+				"getElapsedTime"
+			],
+			[
+				"init",
+				"initTimer"
+			],
+			[
+				"D",
+				"Date(): Date\tDate"
+			],
+			[
+				"func",
+				"function with name"
+			],
+			[
+				"fnu",
+				"function with name"
+			],
+			[
+				"each",
+				"each\t$.each()"
+			],
+			[
+				"co",
+				"conflicts"
+			],
+			[
+				"ea",
+				"each\t$.each()"
+			],
+			[
+				"le",
+				"length: int\tArray"
+			],
+			[
+				"fin",
+				"finished"
+			],
+			[
+				"check",
+				"checkGame"
+			],
+			[
+				"strin",
+				"stringify( value: any, replacer?: any, space?: any ): string\tJSON"
+			],
+			[
+				"val",
+				"val\t.val()"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"pus",
+				"push( items...: any ): Array\tArray"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"coso",
+				"console"
+			],
+			[
+				"fore",
+				"forEach"
+			],
+			[
+				"Res",
+				"Response"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"fi",
+				"first\t.first()"
+			],
+			[
+				"ca",
+				"callApi"
+			],
+			[
+				"sub",
+				"submit\t.submit()"
+			],
+			[
+				"addC",
+				"appendChild( node: Node ): Node\tNode"
+			],
+			[
+				"las",
+				"lastChild: Node\tNode"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"consol",
+				"console.log()"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"sta",
+				"startTimer"
+			],
+			[
+				"bas",
+				"basefolder"
+			],
+			[
+				"sto",
+				"stopTimer"
+			],
+			[
+				"stop",
+				"stop"
+			],
+			[
+				"c",
+				"click\t.click()"
+			],
+			[
+				"n",
+				"null"
+			],
+			[
+				"tim",
+				"timer"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"max",
+				"maxIndex"
+			],
+			[
+				"nex",
+				"next"
+			],
+			[
+				"im",
+				"imgIndex"
+			],
+			[
+				"type",
+				"type: DOMString\tEvent"
+			],
+			[
+				"gra",
+				"grade"
+			],
+			[
+				"up",
+				"updateName"
+			],
+			[
+				"upda",
+				"updateGrade"
+			],
+			[
+				"chan",
+				"change"
+			],
+			[
+				"gr",
+				"grade"
+			],
+			[
+				"pe",
+				"periodOutput"
+			],
+			[
+				"per",
+				"period"
+			],
+			[
+				"onc",
+				"onchange: EventHandler\tDocument"
+			],
+			[
+				"prom",
+				"prompt( message?: DOMString, default?: DOMString ): DOMString\tWindow"
+			],
+			[
+				"re",
+				"ready\t$(document).ready"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/eugenio/DAD/angular/ngHeroes.sublime-project",
+			"settings":
+			{
+				"buffer_size": 116,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 234.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 477.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/eugenio/DAD/angular/ngHeroes.sublime-project",
+		"/home/eugenio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/eugenio/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/app/hero-detail.component.ts",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/app/hero.ts",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/app/app.module.ts",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/app/app.component.ts",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/app/app.component.js",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/package.json",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/tsconfig.json",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/typings.json",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/systemjs.config.js",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/app/main.ts",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/index.html",
+		"/home/eugenio/DAD/angular/angular-tour-of-heroes/styles.css",
+		"/home/eugenio/PROJDAD/game/js/main.js",
+		"/home/eugenio/DAD/prat2/jQuery_Base/js/imdb.js",
+		"/home/eugenio/DAD/prat2/jQuery_Base/js/slideshow.js",
+		"/home/eugenio/PROJDAD/game/index.html",
+		"/home/eugenio/PROJDAD/cabulaCores.txt",
+		"/home/eugenio/PROJDAD/TO DO.txt",
+		"/home/eugenio/PROJDAD/game/solucao.txt",
+		"/home/eugenio/t2.json",
+		"/home/eugenio/t.json",
+		"/home/eugenio/DAD/prat2/jQuery_Base/jq-showhide.html",
+		"/home/eugenio/DAD/prat2/jQuery_Base/js/show-hide.js",
+		"/home/eugenio/DAD/jQuery_Base/js/imdb.js",
+		"/home/eugenio/DAD/jQuery_Base/js/slideshow.js",
+		"/home/eugenio/DAD/jQuery_Base/jq-imdb.html",
+		"/home/eugenio/DAD/jQuery_Base/jq-slideshow.html",
+		"/home/eugenio/DAD/jQuery_Base/js/ts.js",
+		"/home/eugenio/DAD/jQuery_Base/i18n/datepicker-pt.js",
+		"/home/eugenio/DAD/jQuery_Base/js/alertbox.js",
+		"/home/eugenio/DAD/jQuery_Base/js/show-hide.js",
+		"/home/eugenio/DAD/jQuery_Base/js/synchronize.js",
+		"/home/eugenio/DAD/ficha01/js/slideshow.js",
+		"/home/eugenio/DAD/jQuery_Base/js/slideshow-2.js",
+		"/home/eugenio/DAD/jQuery_Base/jq-synchronize.html",
+		"/home/eugenio/DAD/ficha01/js/synchronize.js",
+		"/home/eugenio/.config/sublime-text-3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/home/eugenio/.config/sublime-text-3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/home/eugenio/grandes romances historicos.txt",
+		"/home/eugenio/colecao_melinha.txt",
+		"/home/eugenio/DAD/test.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"selectedHero",
+			"hero",
+			"conso",
+			"check",
+			"checkGame",
+			"isSectionFull",
+			"for",
+			"        \n",
+			"startTimer",
+			"   ",
+			"matchedCells",
+			"col",
+			"resultPanel",
+			"right",
+			"response",
+			"basefolder",
+			"maxIndex",
+			"getElementById",
+			"slider",
+			"updatePage",
+			"empty",
+			"Empty",
+			"empty",
+			"periodOutput",
+			"period",
+			"getElementById",
+			"nameOut"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/eugenio/DAD/angular/ngHeroes.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ngHero.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hero",
+				"DAD/angular/angular-tour-of-heroes/app/hero-detail.component.ts"
+			],
+			[
+				"app",
+				"DAD/angular/angular-tour-of-heroes/app/app.component.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
