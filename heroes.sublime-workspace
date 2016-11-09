@@ -1,0 +1,1729 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"elem",
+				"element"
+			],
+			[
+				"tim",
+				"timeOutTime"
+			],
+			[
+				"fun",
+				"function without name"
+			],
+			[
+				"che",
+				"checkFinish"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"po",
+				"pop(): any\tArray"
+			],
+			[
+				"pus",
+				"push( items...: any ): Array\tArray"
+			],
+			[
+				"inde",
+				"indexes"
+			],
+			[
+				"pu",
+				"push( items...: any ): Array\tArray"
+			],
+			[
+				"sec",
+				"sections"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"anime",
+				"animateSection"
+			],
+			[
+				"each",
+				"each\t.each()"
+			],
+			[
+				"backgroundC",
+				"backgroundColor\tStyle CSS"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"retun",
+				"return"
+			],
+			[
+				"val",
+				"val\t.val()"
+			],
+			[
+				"fu",
+				"function without name"
+			],
+			[
+				"data-",
+				"data-line"
+			],
+			[
+				"dat",
+				"dataText"
+			],
+			[
+				"data",
+				"dataJson"
+			],
+			[
+				"jso",
+				"JSON.parse( json: string ): any\tJSON"
+			],
+			[
+				"da",
+				"dataText"
+			],
+			[
+				"prop",
+				"prop\t.prop() - single"
+			],
+			[
+				"va",
+				"val\t.val()"
+			],
+			[
+				"att",
+				"attr\t.attr() - single"
+			],
+			[
+				"arr",
+				"Array( size: int ): Array\tArray"
+			],
+			[
+				"clea",
+				"clearClass"
+			],
+			[
+				"el",
+				"elem"
+			],
+			[
+				"cell",
+				"cellMatches"
+			],
+			[
+				"cel",
+				"cellMatches"
+			],
+			[
+				"hi",
+				"highlight"
+			],
+			[
+				"setT",
+				"setTimeout( handler: any, timeout?: long, arguments...: any ): long\tWindow"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"game",
+				"gameInputs"
+			],
+			[
+				"cli",
+				"click\t.click()"
+			],
+			[
+				"th",
+				"this\t$(this)"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"key",
+				"keypress\t.keypress()"
+			],
+			[
+				"le",
+				"length: int\tArray"
+			],
+			[
+				"onkeydown",
+				"onkeydown: EventHandler\tDocument"
+			],
+			[
+				"onk",
+				"onkeydown: EventHandler\tWindow"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"clear",
+				"clearBoard"
+			],
+			[
+				"conso",
+				"console.log()"
+			],
+			[
+				"con",
+				"console.log()"
+			],
+			[
+				"nam",
+				"nameVal"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"ge",
+				"get\tGet Elements"
+			],
+			[
+				"gra",
+				"gradeVal"
+			],
+			[
+				"vali",
+				"validateGrade"
+			],
+			[
+				"nma",
+				"name_alert"
+			],
+			[
+				"na",
+				"name_danger"
+			],
+			[
+				"sli",
+				"slide_func"
+			],
+			[
+				"img",
+				"imgIndex"
+			],
+			[
+				"n",
+				"nameOutput"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"down",
+				"downloadTable"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"la",
+				"lastIndexOf"
+			],
+			[
+				"exp",
+				"explorerCSV"
+			],
+			[
+				"ex",
+				"exitStatus"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"rec",
+				"record"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fp",
+				"fputcsv"
+			],
+			[
+				"ha",
+				"handle"
+			],
+			[
+				"table",
+				"tableName"
+			],
+			[
+				"te",
+				"test2"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"co",
+				"cookie"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"qu",
+				"queryData"
+			],
+			[
+				"qy",
+				"queryBuilder"
+			],
+			[
+				"T",
+				"TSCtrl"
+			],
+			[
+				"op",
+				"opt"
+			],
+			[
+				"i",
+				"isActive"
+			],
+			[
+				"q",
+				"queryBuilder"
+			],
+			[
+				"ac",
+				"activationKeys"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"Q",
+				"QueryBuilder"
+			],
+			[
+				"mysql",
+				"mysqli"
+			],
+			[
+				"Ap",
+				"AppIdCtrl"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"a",
+				"activationCollums"
+			],
+			[
+				"U",
+				"UserIdCtrl"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"que",
+				"queryBuilder"
+			],
+			[
+				"bui",
+				"BuildQueryForm"
+			],
+			[
+				"load",
+				"loadTable"
+			],
+			[
+				"or",
+				"orderField"
+			],
+			[
+				"se",
+				"serialize"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"C",
+				"ClearOptions"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"cl",
+				"console"
+			],
+			[
+				"files",
+				"files"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"DB",
+				"DBTYPES"
+			],
+			[
+				"vi",
+				"viewName"
+			],
+			[
+				"c",
+				"currentTable"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"view",
+				"view_sql"
+			],
+			[
+				"ro",
+				"root_sql"
+			],
+			[
+				"new",
+				"newTable"
+			],
+			[
+				"tabl",
+				"tableName"
+			],
+			[
+				"VI",
+				"view_query"
+			],
+			[
+				"V",
+				"vQuery"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"g",
+				"grant_query"
+			],
+			[
+				"db",
+				"dbid"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"v",
+				"vName"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bin",
+				"binascii"
+			],
+			[
+				"sq",
+				"sql_c"
+			],
+			[
+				"sl",
+				"sql_c"
+			],
+			[
+				"pa",
+				"parse"
+			],
+			[
+				"exec",
+				"execSrumExplorer"
+			],
+			[
+				"he",
+				"hexlify"
+			],
+			[
+				"str",
+				"struct"
+			],
+			[
+				"loa",
+				"loadTable"
+			],
+			[
+				"sta",
+				"sTableHead"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 1106,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/hero-detail.component.ts",
+			"settings":
+			{
+				"buffer_size": 1079,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/hero.service.ts",
+			"settings":
+			{
+				"buffer_size": 1490,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/in-memory-data.service.ts",
+			"settings":
+			{
+				"buffer_size": 524,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "import { InMemoryDbService } from 'angular-in-memo"
+			}
+		},
+		{
+			"file": "app/heroes.component.html",
+			"settings":
+			{
+				"buffer_size": 542,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/heroes.component.ts",
+			"settings":
+			{
+				"buffer_size": 1174,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "systemjs.config.js",
+			"settings":
+			{
+				"buffer_size": 1610,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"types",
+				"TypeScript: Overloads Panel"
+			],
+			[
+				"error ",
+				"TypeScript: Show Error List"
+			],
+			[
+				"type",
+				"TypeScript: Format Line"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa lis",
+				"Package Control: List Packages"
+			],
+			[
+				"javasc",
+				"Javascript Beautify"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sublimeCO",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"pakca ins",
+				"Package Control: Install Package"
+			],
+			[
+				"subl",
+				"SublimeLinter: Disable Debug Mode"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 414.0
+	},
+	"console":
+	{
+		"height": 294.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/IPL/DAD/heroes",
+		"/D/IPL/DAD/heroes/app"
+	],
+	"file_history":
+	[
+		"/D/IPL/DAD/heroes/app/hero.service.ts",
+		"/D/IPL/DAD/heroes/app/dashboard.component.html",
+		"/D/IPL/DAD/heroes/app/hero-detail.component.ts",
+		"/D/IPL/DAD/heroes/app/hero-detail.component.html",
+		"/D/IPL/DAD/heroes/app/hero-detail.component.css",
+		"/D/IPL/DAD/heroes/heroes.sublime-project",
+		"/D/IPL/DAD/heroes/app/dashboard.component.css",
+		"/D/IPL/DAD/heroes/app/heroes.component.css",
+		"/D/IPL/DAD/heroes/app/mock-heroes.ts",
+		"/D/IPL/DAD/heroes/app/app.component.ts",
+		"/D/IPL/DAD/heroes/app/heroes.component.ts",
+		"/D/IPL/DAD/heroes/app/app-routing.module.ts",
+		"/D/IPL/DAD/heroes/index.html",
+		"/D/IPL/DAD/imdb/ficha03/imdb1/index.html",
+		"/C/Users/Eugénio/AppData/Local/Temp/7zODCA8.tmp/main.js",
+		"/D/IPL/DAD/2016-17-EI-DAD-PRJ1/game/index.html",
+		"/D/IPL/DAD/2016-17-EI-DAD-PRJ1/game/js/main.js",
+		"/D/IPL/DAD/angular-tour-of-heroes/ngHeroes.sublime-project",
+		"/D/IPL/DAD/angular-tour-of-heroes/app/index.html",
+		"/D/SteamLibrary/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/config_default.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/config.cfg",
+		"/D/Program Files (x86)/Arduino/examples/01.Basics/Blink/Blink.ino",
+		"/D/Program Files (x86)/Arduino/examples/10.StarterKit/p05_ServoMoodIndicator/p05_ServoMoodIndicator.ino",
+		"/C/Users/Eugénio/AppData/Roaming/Sublime Text 3/Packages/User/Stino/Preferences.stino-settings",
+		"/C/Users/Eugénio/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/reloader.py",
+		"/C/Users/Eugénio/AppData/Roaming/Sublime Text 3/Packages/TypeScript/main.py",
+		"/D/Stino-new-stino/StinoStarter.py",
+		"/C/Users/Eugénio/AppData/Roaming/Sublime Text 3/Packages/User/Stino/Default (Windows).sublime-keymap",
+		"/C/Users/Eugénio/AppData/Roaming/Sublime Text 3/Packages/Stino-new-stino/Default (Windows).sublime-keymap",
+		"/E/arduino/servo/servo.ino",
+		"/D/IPL/DAD/angular-tour-of-heroes/package.json",
+		"/D/IPL/DAD/angular-tour-of-heroes/tsconfig.json",
+		"/D/IPL/DAD/angular-tour-of-heroes/typings.json",
+		"/D/IPL/DAD/angular-tour-of-heroes/systemjs.config.js",
+		"/D/IPL/DAD/angular-tour-of-heroes/app/app.module.ts",
+		"/D/IPL/DAD/angular-tour-of-heroes/app/main.ts",
+		"/D/IPL/DAD/angular-tour-of-heroes/app/app.component.ts",
+		"/C/Users/Eugénio/Documents/Arduino/mood cue/mood cue.ino",
+		"/C/Users/Eugénio/Documents/Arduino/blink/blink.ino",
+		"/D/IPL/DAD/angular-tour-of-heroes/index.html",
+		"/D/IPL/DAD/angular-tour-of-heroes/styles.css",
+		"/D/IPL/DAD/angular-tour-of-heroes/app.module.ts",
+		"/D/IPL/DAD/dadaulas/prat2/jQuery_Base/js/slideshow.js",
+		"/D/IPL/DAD/dadaulas/prat2/jQuery_Base/jq-datepicker.html",
+		"/D/IPL/DAD/dadaulas/prat2/jQuery_Base/js/imdb.js",
+		"/D/FS/RECOMENTDAÇÕES SITE FSIpleiria.txt",
+		"/D/IPL/DAD/dadaulas/prat2/jQuery_Base/js/datepicker.js",
+		"/D/IPL/DAD/2016-17-EI-DAD-PRJ1/TO DO.txt",
+		"/D/IPL/DAD/dadaulas/prat2/jQuery_Base/i18n/datepicker-pt.js",
+		"/D/IPL/zANOS ANTERIORES/2ºano/1ºsem/PA/PA.etapa2_2014-15.2130822-2120191/PALZ_etapa2/p_compress.c",
+		"/D/IPL/zANOS ANTERIORES/2ºano/1ºsem/PA/PA.etapa2_2014-15.2130822-2120191/PALZ_etapa2/p_compress.h",
+		"/D/IPL/DAD/2016-17-EI-DAD-PRJ1/cabulaCores.txt",
+		"/D/IPL/DAD/2016-17-EI-DAD-PRJ1/game/css/main.css",
+		"/D/ORGANIZE.txt",
+		"/D/.superId",
+		"/D/gDrive/DAD/1prat/JavaScript_Base/js/alertbox.js",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js/synchronize.js",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js/slideshow.js",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js/hello.js",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js-showhide.html",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js/show-hide.js",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js-validation.html",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js/validation.js",
+		"/C/Users/Eugénio/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/C/Users/Eugénio/AppData/Roaming/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/C/Users/Eugénio/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/Default (Windows).sublime-keymap",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js-synchronize.html",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js-slideshow.html",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js-alertbox.html",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js/alertbox.js",
+		"/D/IPL/DAD/1prat/JavaScript_Base/js-helloworld.html",
+		"/C/Users/Eugénio/.homestead/Homestead.yaml",
+		"/D/IPL/srumWeb/laravel/app/Http/Controllers/TablesController.php",
+		"/D/IPL/srumWeb/EepParse/EepParse.py",
+		"/D/IPL/srum_test/laravel/.env",
+		"/C/Users/Eugénio/Documents/My Games/Path of Exile/never_4.filter",
+		"/D/IPL/DAD/proj_grab/ipleiria_estg_ei_dad-projeto_4_dad-c27cfeada06d/Homestead.yaml",
+		"/C/MinGW/msys/1.0/libesedb-20151213/pyesedb/pyesedb.c",
+		"/C/MinGW/msys/1.0/libesedb-20151213/pyesedb/pyesedb.h",
+		"/D/IPL/srumWeb/laravel/public/js/tablesManagement.js",
+		"/D/IPL/srumWeb/laravel/app/Http/Controllers/DocsController.php",
+		"/C/Users/Eugénio/AppData/Roaming/autopsy/python_modules/demo_script/Test.py",
+		"/C/Users/Eugénio/AppData/Roaming/autopsy/python_modules/Test.py",
+		"/D/IPL/srumWeb/laravel/resources/views/tables.blade.php",
+		"/D/gDrive/ProjInf/ToDo.txt",
+		"/D/IPL/srumWeb/laravel/app/Http/Controllers/DatabaseController.php",
+		"/D/IPL/srumWeb/laravel/public/js/databasesManagement.js",
+		"/D/IPL/srumWeb/laravel/app/Http/routes.php",
+		"/D/gDrive/ProjInf/Apresentação/APRESETNAÇÃO.txt",
+		"/D/IPL/srumWeb/laravel/public/dbs/user1/dbsrumvideo150/tablesDown/Apps.csv",
+		"/D/IPL/srumWeb/laravel/public/dbs/user1/dbsrumvideo150/tablesDown/Appscsv",
+		"/D/IPL/srumWeb/laravel/resources/views/databases.blade.php",
+		"/D/IPL/srumWeb/laravel/public/SrumMonkey/SrumMonkey.py",
+		"/D/IPL/srumWeb/laravel/app/Http/Controllers/CSVController.php",
+		"/D/IPL/srumWeb/laravel/public/dbs/user1/dbsrumvideo150/explorerCSV.zip",
+		"/C/Users/Eugénio/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/IPL/srumWeb/laravel/public/dbs/user1/dbsrumvideo150/explorerCSV/Apps.csv",
+		"/D/IPL/srumWeb/laravel/public/dbs/user1/dbsrumvideo150/explorerCSV/MSysLocales.csv",
+		"/C/Users/Eugénio/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/IPL/srumWeb/laravel/public/dbs/user1/dbsrumvideo150/explorerCSV/VIEWVIEW.csv",
+		"/D/IPL/srumWeb/laravel/public/dbs/user1/dbsrumvideo150/explorerCSV/NetworkConnectivitycsv",
+		"/D/IPL/srumWeb/laravel/public/dbs/user1/dbsrumvideo150/test.csv",
+		"/D/IPL/srumWeb/laravel/public/SrumExplorer/SrumExplorer.py",
+		"/D/IPL/srumWeb/na pasta onde está o homestead do projecto",
+		"/D/HashiCorp/Homestead/.vagrant/machines/default/virtualbox/action_provision",
+		"/D/HashiCorp/Homestead/.vagrant/machines/default/virtualbox/action_set_name",
+		"/D/HashiCorp/Homestead/.vagrant/machines/default/virtualbox/creator_uid",
+		"/D/HashiCorp/Homestead/.vagrant/machines/default/virtualbox/id",
+		"/D/HashiCorp/Homestead/.vagrant/machines/default/virtualbox/index_uuid",
+		"/D/HashiCorp/Homestead/.vagrant/machines/default/virtualbox/private_key",
+		"/D/HashiCorp/Homestead/.vagrant/machines/default/virtualbox/synced_folders",
+		"/D/IPL/srumWeb/my.cnf",
+		"/D/IPL/srumWeb/EepParse.py",
+		"/D/IPL/srumWeb/laravel/public/SrumExplorer/SE_DER.sql",
+		"/D/IPL/srumWeb/laravel/resources/views/welcome.blade.php",
+		"/D/gDrive/ProjInf/Relatorio/desenvolvimento/SrumExplorer.txt",
+		"/D/gDrive/ProjInf/Relatorio/rel_inidice.txt",
+		"/D/gDrive/ProjInf/Relatorio/Srum/tables.txt",
+		"/D/IPL/srumWeb/eepParse.py",
+		"/D/gDrive/ProjInf/Relatorio/desenvolvimento/EepParse.txt",
+		"/D/gDrive/ProjInf/Relatorio/desenvolvimento/modelo relacional.txt",
+		"/D/gDrive/ProjInf/DER/REASONS DER.txt",
+		"/D/gDrive/ProjInf/15-5/15-5sem17.txt",
+		"/D/gDrive/ProjInf/Relatorio/Panorama Tecnologico/ESE.txt",
+		"/D/gDrive/ProjInf/Relatorio/Panorama Tecnologico/mariaDB.txt",
+		"/D/gDrive/ProjInf/Relatorio/Rel_SrumExplorer.txt",
+		"/D/gDrive/ProjInf/Relatorio/Panorama Tecnologico/laravel.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"element",
+			"quad",
+			"animateSection",
+			"swing",
+			",\n                                'swing'",
+			"swing",
+			"lock",
+			"animateSection",
+			"line",
+			"quad",
+			"line",
+			"column",
+			"caption",
+			"PWM_INTERRUPT",
+			"SIGNAL",
+			"audioOn",
+			"mapPentatonic",
+			"p_f1_comp_slave",
+			"ffa500",
+			"line",
+			"backgroundColor",
+			"Highlight",
+			"console",
+			"this",
+			"line",
+			"LINE",
+			"isqUADFull",
+			"isLineFull",
+			"LINE",
+			"startTime",
+			"getElapsedTime",
+			"initTimer",
+			".attr('value', $(this).val())",
+			"$(this).val()",
+			"();\n",
+			"comflicts",
+			"false",
+			"true",
+			"()",
+			"removing",
+			"false",
+			"nameVal",
+			"agrade.value",
+			"gade_danger",
+			"name_danger",
+			"d",
+			"block",
+			"name_danger",
+			"stop",
+			"previous",
+			"next",
+			"dasdas",
+			"gradeOutput",
+			"nameOutput",
+			"period",
+			"grade",
+			"div",
+			"generateRow",
+			"exit",
+			"sys",
+			"EnergyEstimationProvider",
+			"explorerToCSV",
+			"user",
+			"enco",
+			"database",
+			"exportCSV",
+			"explorerCSV",
+			"database",
+			"boolean_columns",
+			"Parse",
+			"parse",
+			"util",
+			"logging",
+			"web",
+			"WEB",
+			"{",
+			"#",
+			"tranferida",
+			"DerCreator",
+			"Inter",
+			"exitStatus",
+			"viewPrefixLenght",
+			"public",
+			"fileDownloadToken",
+			"deleting",
+			"fileDownloadToken",
+			"getCookie",
+			"block",
+			"none",
+			"after",
+			"ILuidCtrl",
+			"before",
+			"TSCtrl",
+			"ILuidCtrl",
+			"UserIdCtrl",
+			"AppIdCtrl",
+			"orderByCtrl",
+			"groupByCtrl",
+			"BuildQueryForm",
+			"buildQueryForm",
+			"BuildQueryForm",
+			"this",
+			"groupByCtrl",
+			"orderBy",
+			"orderByCtrl",
+			"ILUID",
+			"ILuidCtrl",
+			"orderByCtrl",
+			"var",
+			"and",
+			"control",
+			"60",
+			"queryBuilder",
+			"trim",
+			"query",
+			"Query",
+			"query",
+			"Query",
+			"query",
+			"Query",
+			"query",
+			"BuildOptionPanel",
+			">\n",
+			"person1.sayHello();",
+			"judas",
+			"Name",
+			"DBTYPES",
+			"return"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/app.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								914,
+								914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/hero-detail.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/hero.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								590,
+								590
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "app/in-memory-data.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import { InMemoryDbService } from 'angular-in-memo",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/heroes.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/heroes.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1170,
+								1170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "systemjs.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1568,
+								1568
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1477303770.652":
+	{
+		"height": 110.0
+	},
+	"output.1477304327.444112":
+	{
+		"height": 110.0
+	},
+	"output.1477304410.256902":
+	{
+		"height": 110.0
+	},
+	"output.Blink":
+	{
+		"height": 110.0
+	},
+	"output.blink":
+	{
+		"height": 250.0
+	},
+	"output.build|D:\\Program Files (x86)\\Arduino\\examples\\10.StarterKit\\p05_ServoMoodIndicator|1477304382.087905":
+	{
+		"height": 189.0
+	},
+	"output.build|D:\\Program Files (x86)\\Arduino\\examples\\10.StarterKit\\p05_ServoMoodIndicator|1477304420.583978":
+	{
+		"height": 110.0
+	},
+	"output.doc":
+	{
+		"height": 128.0
+	},
+	"output.errorlist":
+	{
+		"height": 79.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mood cue":
+	{
+		"height": 229.0
+	},
+	"output.p05_ServoMoodIndicator":
+	{
+		"height": 306.0
+	},
+	"output.stino_log":
+	{
+		"height": 110.0
+	},
+	"output.upload|D:\\Program Files (x86)\\Arduino\\examples\\10.StarterKit\\p05_ServoMoodIndicator|1477304359.270972":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "heroes.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"servi",
+				"app\\hero.service.ts"
+			],
+			[
+				"docsc",
+				"srumWeb\\laravel\\app\\Http\\Controllers\\DocsController.php"
+			],
+			[
+				"table",
+				"srumWeb\\laravel\\public\\js\\tablesManagement.js"
+			],
+			[
+				"data",
+				"srumWeb\\laravel\\resources\\views\\databases.blade.php"
+			],
+			[
+				"csv",
+				"srumWeb\\laravel\\app\\Http\\Controllers\\CSVController.php"
+			],
+			[
+				"tables",
+				"srumWeb\\laravel\\resources\\views\\tables.blade.php"
+			],
+			[
+				"tablesc",
+				"srumWeb\\laravel\\app\\Http\\Controllers\\TablesController.php"
+			],
+			[
+				"route",
+				"srumWeb\\laravel\\app\\Http\\routes.php"
+			],
+			[
+				"tabl",
+				"srumWeb\\laravel\\app\\Http\\Controllers\\TablesController.php"
+			],
+			[
+				"tod",
+				"ProjInf\\ToDo.txt"
+			],
+			[
+				"indi",
+				"ProjInf\\Relatorio\\rel_inidice.txt"
+			],
+			[
+				"todo",
+				"ProjInf\\ToDo.txt"
+			],
+			[
+				"tab",
+				"srumWeb\\laravel\\app\\Http\\Controllers\\TablesController.php"
+			],
+			[
+				"der",
+				"srumWeb\\laravel\\public\\SrumExplorer\\der_win10.sql"
+			],
+			[
+				"srume",
+				"srumWeb\\laravel\\public\\SrumExplorer\\SrumExplorer.py"
+			],
+			[
+				"sr",
+				"ProjInf\\SrumExplorer\\SrumExplorer.py"
+			],
+			[
+				"srumbal",
+				"srumWeb\\laravel\\resources\\views\\layouts\\srumExplorer.blade.php"
+			],
+			[
+				"dat",
+				"srumWeb\\laravel\\public\\js\\databasesManagement.js"
+			],
+			[
+				"home",
+				"srumWeb\\laravel\\app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"hom",
+				"srumWeb\\laravel\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Console\\stubs\\make\\controllers\\HomeController.stub"
+			],
+			[
+				"databla",
+				"srumWeb\\laravel\\resources\\views\\databases.blade.php"
+			],
+			[
+				"databa",
+				"srumWeb\\laravel\\public\\js\\databasesManagement.js"
+			],
+			[
+				"srumblade",
+				"srumWeb\\laravel\\resources\\views\\layouts\\srumExplorer.blade.php"
+			],
+			[
+				"tabbla",
+				"srumWeb\\laravel\\resources\\views\\tables.blade.php"
+			],
+			[
+				"srum",
+				"srumWeb\\laravel\\public\\SrumExplorer\\SrumExplorer.py"
+			],
+			[
+				"rutes",
+				"srumWeb\\laravel\\app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"15",
+				"ProjInf\\15-5\\15-5sem16.txt"
+			],
+			[
+				"15-5",
+				"ProjInf\\15-5\\15-5sem14.txt"
+			],
+			[
+				"hocon",
+				"srumWeb\\laravel\\app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"da",
+				"srumWeb\\laravel\\vendor\\symfony\\http-kernel\\DataCollector\\DataCollector.php"
+			],
+			[
+				"rou",
+				"srumWeb\\laravel\\app\\Http\\routes.php"
+			],
+			[
+				"srumbla",
+				"srumWeb\\laravel\\resources\\views\\layouts\\srumExplorer.blade.php"
+			],
+			[
+				"tablblad",
+				"srumWeb\\laravel\\resources\\views\\tables.blade.php"
+			],
+			[
+				"dacon",
+				"srumWeb\\laravel\\app\\Http\\Controllers\\DatabaseController.php"
+			],
+			[
+				"routes",
+				"srumWeb\\laravel\\app\\Http\\routes.php"
+			],
+			[
+				"tablebla",
+				"srumWeb\\laravel\\resources\\views\\tables.blade.php"
+			],
+			[
+				"dac",
+				"srumWeb\\laravel\\vendor\\symfony\\http-kernel\\DataCollector\\DataCollector.php"
+			],
+			[
+				"",
+				"srumWeb\\laravel\\resources\\views\\databases.blade.php"
+			],
+			[
+				"blade",
+				"srumWeb\\laravel\\resources\\views\\databases.blade.php"
+			],
+			[
+				"ta",
+				"srumWeb\\laravel\\resources\\views\\tables.blade.php"
+			],
+			[
+				".en",
+				"srumWeb\\laravel\\.env"
+			],
+			[
+				"to",
+				"ProjInf\\ToDo.txt"
+			],
+			[
+				"str",
+				"srumWeb\\strInvt.py"
+			],
+			[
+				"st",
+				"srumWeb\\laravel\\vendor\\symfony\\yaml\\Tests\\Fixtures\\sfTests.yml"
+			],
+			[
+				"error",
+				"srumWeb\\laravel\\resources\\views\\error.blade.php"
+			],
+			[
+				"srumblad",
+				"srumWeb\\laravel\\resources\\views\\layouts\\srumExplorer.blade.php"
+			],
+			[
+				"datablade",
+				"srumWeb\\laravel\\resources\\views\\databases.blade.php"
+			],
+			[
+				"srum.bl",
+				"srumWeb\\laravel\\resources\\views\\layouts\\srumExplorer.blade.php"
+			],
+			[
+				"dele",
+				"srumWeb\\laravel\\public\\js\\deleteDatabase.js"
+			],
+			[
+				"is",
+				"srumWeb\\laravel\\public\\isSrumDb\\isSrumDb.py"
+			],
+			[
+				"srumr",
+				"srumWeb\\laravel\\resources\\views\\layouts\\srumExplorer.blade.php"
+			],
+			[
+				"up.js",
+				"srumWeb\\laravel\\public\\js\\up_db_form.js"
+			],
+			[
+				"js",
+				"srumWeb\\laravel\\public\\js\\jstest.js"
+			],
+			[
+				"srum.la",
+				"srumWeb\\laravel\\resources\\views\\layouts\\srumExplorer.blade.php"
+			],
+			[
+				"welcom",
+				"srumWeb\\laravel\\resources\\views\\welcome.blade.php"
+			],
+			[
+				"app.bla",
+				"laravel\\resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"create_",
+				"laravel\\database\\migrations\\2016_05_18_224237_create_user_databases_table.php"
+			],
+			[
+				"userda",
+				"laravel\\app\\UserDatabases.php"
+			],
+			[
+				"us",
+				"laravel\\app\\User.php"
+			],
+			[
+				"use",
+				"laravel\\app\\User.php"
+			],
+			[
+				"test",
+				"srum_test\\laravel\\app\\Http\\Controllers\\TestController.php"
+			],
+			[
+				"config",
+				"srumWeb\\laravel\\vendor\\league\\flysystem\\src\\Config.php"
+			],
+			[
+				"apps.b",
+				"srumWeb\\laravel\\resources\\views\\apps.blade.php"
+			],
+			[
+				"bootstrap.css",
+				"srumWeb\\laravel\\vendor\\phpunit\\php-code-coverage\\src\\CodeCoverage\\Report\\HTML\\Renderer\\Template\\css\\bootstrap.min.css"
+			],
+			[
+				"apps.bla",
+				"srumWeb\\laravel\\resources\\views\\apps.blade.php"
+			],
+			[
+				"app.c",
+				"srumWeb\\laravel\\resources\\assets\\sass\\app.scss"
+			],
+			[
+				"app.bl",
+				"srumWeb\\laravel\\resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"appscon",
+				"srumWeb\\laravel\\app\\Http\\Controllers\\AppsController.php"
+			],
+			[
+				"apps",
+				"srumWeb\\laravel\\app\\Apps.php"
+			],
+			[
+				"apcotn",
+				"srumWeb\\laravel\\app\\Http\\Controllers\\AppsController.php"
+			],
+			[
+				"rout",
+				"srumWeb\\laravel\\app\\Http\\routes.php"
+			],
+			[
+				"authenticatesandregistersusers",
+				"srumWeb\\laravel\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"routes.php",
+				"srum_test\\laravel\\app\\Http\\routes.php"
+			],
+			[
+				"w.bla",
+				"srum_test\\laravel\\resources\\views\\w.blade.php"
+			],
+			[
+				"testc",
+				"srum_test\\laravel\\app\\Http\\Controllers\\TestController.php"
+			],
+			[
+				"con",
+				"srumWeb\\laravel\\app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"routes.p",
+				"srumWeb\\laravel\\app\\Http\\routes.php"
+			],
+			[
+				"apps.",
+				"srum_test\\laravel\\app\\Apps.php"
+			],
+			[
+				"pw.t",
+				"pw.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.js",
+				"*.map"
+			],
+			"path": "."
+		}
+	],
+	"settings":
+    {
+        "tab_size": 4
+    },
+}
